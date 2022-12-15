@@ -1,0 +1,5 @@
+<!-- Bad Code-->
+<img src="html5.gif">
+
+<!-- Good Code-->
+<img src="html5.gif"><img src="html5.gif" alt="HTML5" style="width:100px;height:100px">
